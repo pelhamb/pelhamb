@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pelhamb or Pelham Bergesen
-- Electrical and Computer Engineering student at Cornell University, especially interested in data science and digital signal processing.
+- Electrical and Computer Engineering student at Cornell University, especially interested in microcontrollers and digital signal processing.
 - I can easily be reached at pbb65@cornell.edu
 
 <!---
